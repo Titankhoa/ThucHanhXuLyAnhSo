@@ -1,8 +1,7 @@
 # ThucHanhXuLyAnhSo
 
 
-Lab2-Menu-IGLH
-Title
+LAB 02 
 Image inverse transformation (Biến đổi cường độ ảnh) là phép biến đổi cường độ ảnh từ tối sang sáng và ngược lại.
 Công Nghệ Sử Dụng
 Ngôn ngữ: Python
